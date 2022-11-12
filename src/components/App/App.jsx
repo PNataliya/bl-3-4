@@ -1,6 +1,4 @@
-import { Component } from 'react';
 import { useSelector } from 'react-redux';
-import { nanoid } from 'nanoid';
 
 import {
   Container,
